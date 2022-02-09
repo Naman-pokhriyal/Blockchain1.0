@@ -13,4 +13,4 @@ Ethereum.miningPendingTransactions("prav-add");
 console.log(Ethereum.getBalance("nam-add"));
 console.log(Ethereum.getBalance("prav-add"));
 
-// console.log(Ethereum.checkChain());
+console.log(Ethereum.checkChain());
